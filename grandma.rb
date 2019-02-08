@@ -5,7 +5,8 @@ def speak_to_grandma(love)
   
   def speak_grandma(statement)
     if statement == statement.downcase
-      return 
+      return "HUH?! SPEAK UP, SONNY!."
+    els
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
