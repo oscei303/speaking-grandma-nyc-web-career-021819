@@ -9,7 +9,8 @@ def speak_to_grandma(love)
     elsif return "HUH?! SPEAK UP, SONNY!."
   elsif statement == statement.upcase
     return "NO, NOT SINCE 1938!"
-  else 
+  else return "NO, NOT SINCE 1938!"
+  end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
