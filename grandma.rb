@@ -8,7 +8,7 @@ def speak_to_grandma(love)
       return "HUH?! SPEAK UP, SONNY!."
     elsif return "HUH?! SPEAK UP, SONNY!."
   elsif statement == statement.upcase
-    return "I LOVE YOU GRANDMA!"
+    return "NO, NOT SINCE 1938!"
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
